@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d704c251.css",
+    "main.js": "/static/js/main.371d0b99.js",
+    "static/media/picture-2.png": "/static/media/picture-2.72fe872af0b3834afec1.png",
+    "static/media/gallery5.jpg": "/static/media/gallery5.3462a79ce3f8a9f9c986.jpg",
+    "static/media/gallery2.jpg": "/static/media/gallery2.50a6bc74af0498abb98b.jpg",
+    "static/media/gallery4.jpg": "/static/media/gallery4.f26d730073ac28147964.jpg",
+    "static/media/picture-5.png": "/static/media/picture-5.8be453cc49b9a9287d31.png",
+    "static/media/m3.png": "/static/media/m3.1d58af533ec633d4b50f.png",
+    "static/media/picture-4.png": "/static/media/picture-4.13a10e0915233b2a9e52.png",
+    "static/media/gallery1.jpg": "/static/media/gallery1.11298dd8cf51fdd7d605.jpg",
+    "static/media/img2.jpg": "/static/media/img2.ff2dcff8a1e62a6ff3d6.jpg",
+    "static/media/picture-3.png": "/static/media/picture-3.8f7fe6e6fb42beea2bd1.png",
+    "static/media/m4.png": "/static/media/m4.857a65de5e22195867a2.png",
+    "static/media/m1.png": "/static/media/m1.520709db1b2234f599ee.png",
+    "static/media/sweets.png": "/static/media/sweets.ba56e1d96e0f6bf9b97e.png",
+    "static/media/bg7.jpg": "/static/media/bg7.718dc948989dbeddd4e9.jpg",
+    "static/media/picture-1.png": "/static/media/picture-1.20fa95f981ba14a8e963.png",
+    "static/media/img1.jpg": "/static/media/img1.d4b6f6ae956e5ecd888d.jpg",
+    "static/media/footer-bg.jpg": "/static/media/footer-bg.ef7f40f2e8ab15a4a520.jpg",
+    "static/media/m2.png": "/static/media/m2.3c754ae7cdd1f0dd4f57.png",
+    "static/media/picture-7.png": "/static/media/picture-7.8055a6136d82eaf629e2.png",
+    "static/media/picture-6.png": "/static/media/picture-6.24c0d5c07814ab3f3e28.png",
+    "static/media/gallery3.jpg": "/static/media/gallery3.33ee2a21241406ada1f3.jpg",
+    "static/media/img3.jpg": "/static/media/img3.4dfe87270488e78eb78f.jpg",
+    "static/media/picture-9.png": "/static/media/picture-9.3ba12accc96ebcada893.png",
+    "static/media/picture-8.png": "/static/media/picture-8.c6140ac29b1d589c7223.png",
+    "static/media/about2.jpg": "/static/media/about2.251f02baad58c53501c4.jpg",
+    "static/media/home-1-parallax-2.jpg": "/static/media/home-1-parallax-2.ce338e793a3a75a5757a.jpg",
+    "static/media/gallery6.jpg": "/static/media/gallery6.904878a2697aca6bdf5a.jpg",
+    "static/media/about1.jpg": "/static/media/about1.cd9fca45d0fae9afc518.jpg",
+    "index.html": "/index.html",
+    "main.d704c251.css.map": "/static/css/main.d704c251.css.map",
+    "main.371d0b99.js.map": "/static/js/main.371d0b99.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d704c251.css",
+    "static/js/main.371d0b99.js"
+  ]
+}
